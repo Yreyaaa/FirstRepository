@@ -1,2 +1,11 @@
 Hello world!!!
+<<<<<<< HEAD
 Good evening (from branch master)
+=======
+Good bovhvhv
+66666666666666666
+Line fron user 2
+Line user1
+some new feature
+Line from user - lesson rabase
+>>>>>>> 5e236f23e9f8f3e84deab6c5813077f07d9dc87a
