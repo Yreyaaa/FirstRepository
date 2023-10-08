@@ -5,3 +5,4 @@ some other line
 Line from user2
 Line two from user2
 critical bug fifed
+line fom usr2 lesson rebase
