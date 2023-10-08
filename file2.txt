@@ -4,3 +4,4 @@ some other line
 333333333333333333
 Line from user2
 Line two from user2
+critical bug fifed
